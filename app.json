@@ -30,6 +30,7 @@
     "android": {
       "package": "work.yashgupta.shopapp",
       "versionCode": 1
+
     }
   }
 }
