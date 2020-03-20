@@ -1,0 +1,12 @@
+const THEME={
+    DARK_PRIMARY: "#00796B",
+    LIGHT_PRIMARY: "#B2DFDB",
+    PRIMARY: "#009688",
+    TEXT: "#FFFFFF",
+    ACCENT: "#607D8B",
+    PRIMARY_TEXT: "#212121",
+    SECONDARY_TEXT: "#757575",
+    BORDER: "#BDBDBD",
+    DANGER:"#B00020"
+}
+export default THEME;
